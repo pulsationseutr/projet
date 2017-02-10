@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1485655541 source:c:\users\john\documents\codage\jeu\main.cpp
+	<iostream>
+	<Jeu.h>
+
+1485657535 c:\users\john\documents\codage\jeu\include\jeu.h
+	<iostream>
+
+1485657608 source:c:\users\john\documents\codage\jeu\src\jeu.cpp
+	<stdlib.h>
+	<string>
+	"Jeu.h"
+
